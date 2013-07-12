@@ -1,0 +1,22 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371473540000 657 28eadde7166e10df848f441ee0751426d381dd94 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/R.class
+1371473539000 455 ce347eda0d436e90ba1535d0aac40169d3d8f868 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/R$dimen.class
+1371473539000 1450 ba2ed30c1ef9466fadd744f3cef5f5a20f60434b /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/utils/HelperUtils.class
+1371473539000 4918 67ff85765369b6a907370826c9f12a9256ae6388 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/tasks/RestTask.class
+1371473539000 624 05f275d62da9341fb82fdcb2fbe4853d2eb73593 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/R$id.class
+1371473540000 425 807101520cfe031dee45cbc307cde7b92108fffe /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/R$style.class
+1371473539000 1879 51872a2cce8e323d5d1d4a5817bc087173835938 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/tasks/DownloadImageTask.class
+1369725123000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/fernandoMac/developer/java/workspace/Comida/Comida/libs/android-support-v4.jar
+1371473539000 1782 88e6f9767f54ef4f5826479523239cd8dfa8de00 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/MainActivity$1.class
+1371473539000 397 700b0c5e10a7c49c03b34e034fe2710f41cf1f46 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/R$layout.class
+1371473540000 382 a7690641d6616c3777cc34c2a4ad6dc6c47cd4fe /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/R$menu.class
+1371473539000 334 558cf484ff096bbb7b08bee6815ca9a5306b7884 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/R$attr.class
+1371473539000 401 37000fbee6b5b7556e1726bb9bf5ac5a9c232b20 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/R$drawable.class
+1371473539000 1277 e7af8a0d3b613a02bd43d9467372597a8fd8e367 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/pojo/ComidaPojo.class
+1371473539000 1740 fc5ade3e07064b902957c13cc552ded1ea0b9f22 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/adapters/StableArrayAdapter.class
+1371473540000 341 cf85436beb6a1915bed5afc3ba132e28e256a9dd /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/BuildConfig.class
+1371473539000 4648 74314ed7671ce3cd83c6d8c88b954fe2e267ad58 /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/tasks/RestFoodForkTask.class
+1371473752000 6711 9884597a7819711940aa7c02d8917e396927f89c /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/MainActivity.class
+1371473540000 466 d2985d6f463edae9b48b7efac9f653bbfa76d58d /Users/fernandoMac/developer/java/workspace/Comida/Comida/build/classes/debug/org/nando/comida/R$string.class

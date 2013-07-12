@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Comida
+    </string>
+    <string name="action_settings" >Share with Evernote
+    </string>
+    <string name="hello_world" >Hello world!
+    </string>
+
+</resources>
